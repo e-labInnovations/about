@@ -73,6 +73,8 @@ GEM
     jekyll-paginate (1.1.0)
     jekyll-sass-converter (1.4.0)
       sass (~> 3.4)
+    jekyll-sitemap (1.2.0)
+      jekyll (~> 3.3)
     jekyll-watch (1.5.0)
       listen (~> 3.0, < 3.1)
     json (1.8.3)
@@ -106,7 +108,7 @@ GEM
       middleware
       thor
       thread_safe
-    rack (1.6.4)
+    rack (1.6.13)
     rack-test (0.6.3)
       rack (>= 1.0)
     rails (4.2.7.1)
@@ -166,6 +168,7 @@ DEPENDENCIES
   jekyll-geo-pattern
   jekyll-github-metadata
   jekyll-paginate
+  jekyll-sitemap
   kramdown
   rough
 
