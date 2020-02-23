@@ -1,0 +1,24 @@
+
+title: Mohammed Ashad
+url: 'https://e-labInnovations.github.io'
+baseurl: '/e-labInnovations.github.io' #change it according to your repository name
+
+
+
+# Profile information
+yourname: Mohammed Ashad  ## put your name
+title: 'An electronics student with a Keyboard'  ## your title
+location: Kerala, India
+
+
+## Social Profiles
+facebook: https://www.facebook.com/elabin  ## your facebook account url
+youtube: https://www.youtube.com/channel/UCsKZbLgSyeDmspfXmARZh7g  ## your youtube account url
+linkedin: https://www.linkedin.com/in/mohammed-ashad-525134176  ## your linkedin account url
+github: https://github.com/e-labInnovations ## you github account url
+instagram: https://www.instagram.com/mohammed_ashad_23/  ## your instagram account url
+
+plugins:
+  - jekyll-sitemap
+
+# Update all the sections by editing the files inside _includes folder.
